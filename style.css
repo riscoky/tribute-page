@@ -75,3 +75,12 @@ h3{
 #img-caption {
   margin: 15px 0 5px 0;
 }
+a:hover {
+  color:blue;
+}
+a:visited {
+  color:green;
+}
+a{
+  color:burlywood;
+}
